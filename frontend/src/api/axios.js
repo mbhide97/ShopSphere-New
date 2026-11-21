@@ -32,7 +32,8 @@
 import axios from "axios";
 
 let api = axios.create({
-    baseURL: "https://shopsphere-new-backend.onrender.com/api",
+    // baseURL: "https://shopsphere-new-backend.onrender.com/api",
+    baseURL:"https://shopsphere-new-backend.onrender.com/api",
     headers: {
         "Content-Type": "application/json"
     }
