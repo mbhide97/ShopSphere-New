@@ -2,14 +2,17 @@
 
 // import axios from 'axios'
 
-// let api=axios.create({
-//     baseURL:"http://localhost:5000/api",
-//         // baseURL: "https://shopsphere-new-backend.onrender.com/api",
+// // let api=axios.create({
+// //     baseURL:"http://localhost:5000/api",
+// //         // baseURL: "https://shopsphere-new-backend.onrender.com/api",
 
-//     headers:{
-//       "content-type":"application/json"
-//     }
-// })
+// //     headers:{
+// //       "content-type":"application/json"
+// //     }
+// // })
+
+// //  export default api;
+
 
 // api.interceptors.request.use(
 //     (config)=>{
